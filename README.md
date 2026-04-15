@@ -38,9 +38,10 @@ This project focuses on front-end development using HTML, CSS, and JavaScript wi
 ![Booking](images/booking.png)
 
 
+## Project Structure 
 
-## ⚙️ How to Run Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+├── index.html
+├── book-now.html
+├── css/
+├── js/
+├── images/
