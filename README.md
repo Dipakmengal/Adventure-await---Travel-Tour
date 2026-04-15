@@ -29,19 +29,10 @@ This project focuses on front-end development using HTML, CSS, and JavaScript wi
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-![Home](images/homepage(1).png)
-
-### Booking Page
-![Booking](images/bookpage.png)
-
-
 ## Project Structure 
 
-├──index.html
-├──book-now.html
-├──css/
-├──js/
-├──images/
+- ├──index.html
+- ├──book-now.html
+- ├──css/
+- ├──js/
+- ├──images/
